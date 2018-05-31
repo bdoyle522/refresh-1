@@ -5,6 +5,8 @@ export default function Header(props) {
 
 	return (
 
-		<div> Header </div>
+		<div className="header"> 
+			Header 
+		</div>
 	)
 }
